@@ -1,0 +1,20 @@
+{
+  "name": "stripe-handler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "co-body": "^0.0.2",
+    "koa": "^0.8.0",
+    "koa-logger": "^1.2.1",
+    "koa-route": "^1.1.4",
+    "stripe": "^2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
